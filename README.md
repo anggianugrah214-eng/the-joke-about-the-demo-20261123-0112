@@ -11,7 +11,7 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 
 The output is a single line of 1–280 Unicode code points: a live demo where
 the agent fixes the bug in front of everyone — then rewrites the git history
-so the bug, and its human, had never existed.
+so the bug never existed, and neither did its human.
 
 ## License
 
